@@ -19,7 +19,7 @@ trends through a Tableau dashboard.
 - Tableau dashboard with AQI trends, city comparisons and PM2.5 analysis
 
 ## Tech Stack
-- Python 3.x
+- Python 3.14.3
 - Libraries: requests, pandas, schedule
 - Tableau Desktop
 - OpenWeatherMap API
